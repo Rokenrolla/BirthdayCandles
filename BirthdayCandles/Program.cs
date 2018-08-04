@@ -22,7 +22,7 @@ class Solution
 
         int n = ar.Length;
         int contor = 0;
-        Int64 max = -900000000000000000;
+        Int64 max = -990000000000000000;
         for (int i = 0; i < n; i++)
             if (ar[i] > max)
             {
